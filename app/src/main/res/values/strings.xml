@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExpenseManagerEngine</string>
+    <string name="service">This version dose not represent the orginal app. Only use for functionality and database handaling.</string>
+</resources>
